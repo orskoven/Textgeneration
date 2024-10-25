@@ -43,9 +43,12 @@
 import numpy as np
 
 def pca(X, k):
+   # step 1
    m = X.shape[0]
    Sigma = (1/float(m)) * (X.T.dot(X))
+   # step 2
    U, S, V = np.linalg.svd(Sigma)
+   # Step 3
    U = U[:, 0:k]
    Z = X.dot(U)
    return Z
@@ -55,4 +58,11 @@ def pca(X, k):
 
 # ! heads up : features are defined in latent space from PCA 
 # features can be directly interpreted indvidually. 
+
+# PCA projection on the iris dataset 
+
+
+
+
+
 
