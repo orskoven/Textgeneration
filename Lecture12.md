@@ -16,6 +16,48 @@ Softmax always the sum of 1 of a probability distribution -> and get a confidenc
 TWO OUPUT NODES WITH A SOFTMAX -> SOFTMAX MAKES PROBABILITY DISTRIBUTION and can be interpreted as confidenc-> 
 
 
+More than two ouput nodes are not needed for binary classification 
+
+
+MUST BE PRINTED TO BRAIN -> GROUND KNOWLEDGE FOR EXAM
+
+
+CNN's: 
+
+    - convolutional neual networks
+
+ 
+ ###Features extraction : CNN is ment for image data -> and are really good at that 
+
+
+    consists of poolings and convolutions -> look at a little area in picture 
+    pooling layer : feauture extraction from convultional layer 
+                      -> try to enforce strongest signals and turn down weekeast 
+
+
+
+        The outlining layers : will take care of contrasts ->
+               innner is more detailed the longer we approach the inner layers
+
+            
+
+### Features will become input to classfication network 
+
+MNIST -> steril data that benefit smaller from features extraction
+
+Feature extraction is a strong toolset in terms of picture data 
+
+
+
+### input image 
+
+convelutional kernel -> scans each picture pixel a small piece of the picture at the time -> 
+
+### MAX Pooling reduces the and filters square don and uses stride 2 reduces 4 x 4 to 2 x 2 
+
+
+
+
 
 
 
