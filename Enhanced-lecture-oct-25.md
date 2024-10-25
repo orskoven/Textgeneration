@@ -1,4 +1,4 @@
-Here’s a refined version of your notes with added clarity, structure, and a new section for further reading and industry examples. This improved version includes a more concise explanation of each concept, better-organized equations and code, and relevant real-world applications to solidify understanding.
+
 
 
 
@@ -41,6 +41,16 @@ Here’s a refined version of your notes with added clarity, structure, and a ne
 - **Examples:** 
   - ReLU: \( f(x) = \max(0, x) \), commonly used in hidden layers.
   - Softmax: Converts outputs into probabilities, often applied in the final layer for classification.
+ 
+#### 5. What is theoratical requirment to use CNN to use a classification problem. 
+
+ - Input goes into a model and gives a y hat
+ - CNN are just functions -> and can be written as a function
+ - ---->
+
+ - CNN SVM support vector machines have in 2013 been showing to tell gender from iris with 85,68% accuracy 
+
+
 
 **Reflection:** Understanding these fundamental components—weights, connectivity, and activation functions—reveals how neural networks operate at a basic level. McCulloch and Pitts’ early work modeled logical neurons, forming the foundation of today’s network architectures.
 
