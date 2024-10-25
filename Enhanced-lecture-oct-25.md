@@ -48,7 +48,10 @@
  - CNN are just functions -> and can be written as a function
  - ---->
 
- - CNN SVM support vector machines have in 2013 been showing to tell gender from iris with 85,68% accuracy 
+ - CNN SVM support vector machines have in 2013 been showing to tell gender from iris with 85,68% accuracy
+
+ - We have causality problem and we cant explain why
+ - 
 
 
 
