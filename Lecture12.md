@@ -49,6 +49,14 @@ Feature extraction is a strong toolset in terms of picture data
 
 
 
+    import tensorflow as tf
+    import tensorflow_datasets as tfds
+
+    (ds_test, ds_val, ds_train), ds_info = tfds.load(
+        'mnist',
+        split = [ 'test', 'train[0%:17%]
+
+
 ### input image 
 
 convelutional kernel -> scans each picture pixel a small piece of the picture at the time -> 
