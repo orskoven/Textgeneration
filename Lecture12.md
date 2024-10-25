@@ -8,6 +8,16 @@
 Peer review feed back
 Principal component analysis
 
+RAW Notes : Should be transformed ->Z 
+
+[ Jump in : henrik explains to output nodes _> when discussion of 
+Softmax always the sum of 1 of a probability distribution -> and get a confidence in the result number / result -> you get to paramtric probabilty distribution in your output the probability sum is always 100 and when you have two output nodes in a binary classification _> so you have node1: 0.8 being a cat and node2:0.2 not a dog 
+
+TWO OUPUT NODES WITH A SOFTMAX -> SOFTMAX MAKES PROBABILITY DISTRIBUTION and can be interpreted as confidenc-> 
+
+
+
+
 
 ---
 
