@@ -57,6 +57,8 @@ Feature extraction is a strong toolset in terms of picture data
         split = [ 'test', 'train[0%:17%]
 
 
+
+
 ### input image 
 
 convelutional kernel -> scans each picture pixel a small piece of the picture at the time -> 
@@ -64,6 +66,23 @@ convelutional kernel -> scans each picture pixel a small piece of the picture at
 ### MAX Pooling reduces the and filters square don and uses stride 2 reduces 4 x 4 to 2 x 2 
 
 
+### shuffle to remove the human errors in the loop
+### split by 42 to maske re
+
+- input layer is 28,28 -> goes in a "track" 384 -> 255 -> 128
+- Relu 
+- adam adaptive learning rate adapts and finetune at end better hits optimum
+
+- Regularization -> we penalize
+- for the mnist the regularization does improve accruacy
+- so minmal difference in a high accuracy -> so it is not oiverfitted when the accuracy doesn't change
+- 
+
+### divide by 255 to have numbers between 0 - 1 bytes 
+
+### Convolutional neural network using NOW 
+ - very very high accuracy
+ - 
 
 
 
