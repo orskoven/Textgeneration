@@ -25,7 +25,9 @@ Bibliography with latex
 | Concept        | Description/Definition                                     | Example/Context                        |
 |----------------|------------------------------------------------------------|----------------------------------------|
 | Bibliography   | Find google scholar to generate latex bibliography         |        |
-| Concept 2      | Brief definition or description                            | Example or context to illustrate       |
+| weights      | Generated randomely connecting line between perceptrons : reson being random : floats can give os better information as small numbers around zero                           | Example or context to illustrate       |
+| Fully conected network       | All nodes are connect from input to hidden to ouput layer                            | input circles connected to hidden to output layer are all connected on each other by lines that canno extend layers       || Nodes      | input are clean input : hidden layer notes have a sum function and activatoin function ( sum function multiplies each weight from the corresponding node in the previos layer and uses the activation to scale the right weighting when we cannot make a polynomial decision boundary                          | Example or context to illustrate       || Activation function       | important                             | Example or context to illustrate       |
+
 
 ---
 
