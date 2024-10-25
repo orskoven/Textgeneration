@@ -51,4 +51,17 @@
     # WE can use "we" we can use passive 
 
     # methode reference algorithms -> correlations -> pearsons DNN deep neural network 
-      
+
+
+      # MOST IMPORTANT BIBLIOGRAPHY _> 
+
+      # PEER REVIEW 
+
+                  # VISUALIZATION       
+                  # GOOD GRAPHS -> 
+
+
+
+
+
+
